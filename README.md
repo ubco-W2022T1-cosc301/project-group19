@@ -7,8 +7,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
-Our topic/interest is in understanding and visualizing of the changes of educational importance over year with another focus on seeing if education has improved. Over the years, more importance is put on completing schooling and progressing to Post-Secondary Education, but has Secondary education completion rates increased or decreased? As well as if the location of the school or district correlates to a difference in completion rates or the rate is fairly general all-over British Columbia.
-
+Our interest is to utilize our dataset to understand and visualize the barriers and/or intricacies that British Columbians face through the completion of their high school career. We strive to determine if certain groups of people, including Indigenous people or people with disabilities have lower completion rates due to the ongoing barriers they’ve faced, and whether or not the completion rates have improved over time with the increase in technology and awareness. Furthermore, we would like to investigate if societal changes such as the introduction of modern-day technology has had an impact on the completion rates. Because of the apparent increase in careers requiring a post-secondary diploma over time, we would like to examine if this has impacted student determination to receive their Dogwood. Additionally, we seek to determine any relationships between a school’s geographic location/district and city population size and students’ high school completion rates. We want to spread awareness on barriers that British Columbian students face throughout their high school career, which could be used by the government or other agencies to distribute funding to improve the BC education system. 
 
 ## Describe your dataset in about 150-200 words
 
