@@ -27,9 +27,9 @@ Our dataset demonstrates the British Columbia Completion Rate for high school st
 
 ## Images
 
-{You can use this area for any images you want to include}
+{Not affiliated with British Columbia Ministry of Education}
 
-<img src ="images/test.png" width="100px">
+<img src ="images/bcminofed.jpg" width="100px">
 
 ## References
 
