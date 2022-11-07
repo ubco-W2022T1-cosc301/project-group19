@@ -27,11 +27,11 @@ def load_and_process(file):
            
     )
 #Delete unneeded values
-    df2 = df2[df2['DATA_LEVEL'].str.contains('DISTRICT LEVEL')==True]
-    df2 = df2[df2['SUB_POPULATION'].str.contains('ALL STUDENTS')==True]
-    df2 = df2[df2['DISTRICT_NAME'].str.contains('NaN')==False]
-    df2 = df2[df2['COMPLETION_RATE_MODEL'].str.contains('SIX YEAR DOGWOOD COMPLETION RATE')==True]
-    df2 = df2[df2['ESTIMATED_COMPLETION_RATE'].str.contains('Msk')==False]
+    #df2 = df2[df2['DATA_LEVEL'].str.contains('DISTRICT LEVEL')==True]
+    #df2 = df2[df2['SUB_POPULATION'].str.contains('ALL STUDENTS')==True]
+    df2 = df2[df2['School District'].str.contains('NaN')==False]
+    #df2 = df2[df2['COMPLETION_RATE_MODEL'].str.contains('SIX YEAR DOGWOOD COMPLETION RATE')==True]
+    df2 = df2[df2['Estimated Completion Rate'].str.contains('Msk')==False]
 
 #Shorten year column   
     df2 = df2["Year"].str.slice(0,-5) 
