@@ -1,5 +1,5 @@
 # Introduction
-Do some stuff here
+Do some stuff here - J stuff
 
 
 ## Question 1:
@@ -12,4 +12,4 @@ Say the question and show the results
 Say the words and do the stuff
 
 ## Conclusion:
-Tie it all together like a nice little bow and finish it up 
+Tie it all together like a nice little bow and finish it up  - A stuff
