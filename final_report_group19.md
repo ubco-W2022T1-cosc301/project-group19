@@ -12,4 +12,4 @@ Say the question and show the results
 Say the words and do the stuff
 
 ## Conclusion:
-Tie it all together like a nice little bow and finish it up  Ello mate
+Tie it all together like a nice little bow and finish it up 
