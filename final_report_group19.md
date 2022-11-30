@@ -8,7 +8,7 @@ Say the question & show results
 Say the question and show the results
 
 ## Question 3:
-“You can find the full analysis notebook here, including the code and the data here" 
+[You can find the full analysis notebook here, including the code and the data here](notebooks/analysis3.ipynb) 
 #### To discover if graduation rates have declined or risen over time and to consider what environmental factors could lead to these changes.
 
 # this doesn't work idk what im doing
