@@ -16,7 +16,7 @@ Our dataset demonstrates the British Columbia Completion Rate for high school st
 
 - Denis Gauthier: I am going for a B.Sc in Computer science, also a huge nerd.
 - Aneleise Peppard: I am Bachelor of Management student focused in accounting and I have a cute cat named Coochie.
-- Julia Petrie: I'm'Bachelor of Media Studies student, from Kelowna. 
+- Julia Petrie: I am a Bachelor of Media Studies student, from Kelowna. 
 
 ## Images
 
