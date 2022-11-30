@@ -1,6 +1,5 @@
 # Introduction
-Do some stuff here - J stuff
-
+The dataset our group has chosen is from the British Columbia Ministry of Education. It demonstrates the British Columbia Completion Rate for high school students between the years of 1997/98 to 2020/2021 with information on cohorts, students, success rates, outmigrant counts and more. We believe it is essential to understand our province's success rates and high school information as we entrust the British Columbia Ministry of Education to teach the following generations. With this in mind, it becomes relevant to understand whether the curriculum students follow is working successfully. We were also interested in population compared to completion rates as a trend of low completion rates in areas with smaller populations could hint at a more significant problem that those in British Columbia should be aware of. Lastly, as students ourselves, we were curious about how the completion rates have changed over time and if there was a more extensive importance on education or less of a priority since 1997. Overall our role as students has led us to feel particularly passionate about this data, especially since 2/3 of our group members are included in this dataset. 
 
 ## Question 1:
 Say the question & show results
@@ -9,11 +8,16 @@ Say the question & show results
 Say the question and show the results
 
 ## Question 3:
-
+“You can find the full analysis notebook here, including the code and the data here" 
 #### To discover if graduation rates have declined or risen over time and to consider what environmental factors could lead to these changes.
 
-this way only half works idk what im doing
+# this doesn't work idk what im doing
 ![Figure 1](/images/)(https://github.com/[juliapetrie]/[project-group19]/blob/[main]/Julia fig1 Q1.jpg?raw=true
+
+![Figure 1](/images/Julia fig1 Q1.jpg)
+
+![Figure 1](Julia fig1 Q1.jpg)
+
 
 **Figure 1.** acts as an excellent visual when trying to understand completion rates over the years. The graph begins in 1997 and peaks in 2021 (the end of our dataset). While the graph does have slight variations over the years, it is clear that there was a higher graduation rate as time went on. I believe there is currently more pressure on students to graduate highschool and it is definetly considered the the societle norm to recieve your highschool education and diplThe graph above is an excellent visual for understanding completion rates over the years. The graph begins in 1997 and peaks in 2021 (the end of our dataset). While the graph does have slight variations over the years, it is clear that there was a higher graduation rate as time went on. There is currently more pressure on students to graduate high school, and it is considered the social norm to receive your high school education and diploma at a minimum. The steepest peak of my graph occurs between 1987 and 1989, where the estimated completion rate line is almost vertical on the graph. Figure 3. is an asset in understanding the graduation rates, as you must understand the correlation between the attendance rates and completion rates to realize that the majority of students are very successful. The similarity between the two graphs is promising.
 
