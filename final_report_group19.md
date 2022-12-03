@@ -22,12 +22,19 @@ Just like the Indigenous rates, Students with Disabilities follows a similar pat
 ## Question 2:
 
 My research question is whether the population size of the district in which a school is located has a relationship with the proportion of students receiving their high school diploma. My secondary research question is if there is consistency in population size among those school districts that have lower than 70% average estimated completion rates. In order to conduct my analysis, I merged a second dataset comprising of population data for each of the school districts in BC. 
-### Population Group 1: >100,000
+### Figure 1.1 - Population Group 1: >100,000
 ![Figure 1_1](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig1_1.png)
+
 Figure 1 plots school districts with population above 100,000 and their respective average estimated completion rates. 
+### Figure 1.2 - Population Group 1: 50,000 - 99,999
 ![Figure 1_2](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig1_2.png)
+
+### Figure 1.3 - Population Group 1: 25,000 - 49,999
 ![Figure 1_3](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig1_3.png)
+
+### Figure 1.4 - Population Group 1: < 25,000
 ![Figure 1_4](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig1_4.png)
+
 ![Figure 2](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig2.jpeg)
 
 
