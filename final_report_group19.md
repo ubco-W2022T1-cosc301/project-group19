@@ -28,15 +28,15 @@ My research question is whether the population size of the district in which a s
 
 Figure 1 plots school districts with population above 100,000 and their respective average estimated completion rates. 
 
-### Figure 1.2 - Population Group 1: 50,000 - 99,999
+### Figure 1.2 - Population Group 2: 50,000 - 99,999
 #### Average Estimated Completion Rate = 80.18%
 ![Figure 1_2](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig1_2.png)
 
-### Figure 1.3 - Population Group 1: 25,000 - 49,999
+### Figure 1.3 - Population Group 3: 25,000 - 49,999
 #### Average Estimated Completion Rate = 79.55%
 ![Figure 1_3](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig1_3.png)
 
-### Figure 1.4 - Population Group 1: < 25,000
+### Figure 1.4 - Population Group 4: < 25,000
 #### Average Estimated Completion Rate = 72.35%
 ![Figure 1_4](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig1_4.png)
 
