@@ -20,7 +20,7 @@ Just like the Indigenous rates, Students with Disabilities follows a similar pat
 [If you would like to see a more indepth analysis, you can find the full notebook here](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/notebooks/analysis1.ipynb)
 
 ## Question 2:
-![Figure 2](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig 2.jpeg)
+![Figure 2](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig2.jpeg)
 
 
 ## Question 3:
