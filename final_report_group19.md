@@ -20,8 +20,8 @@ Just like the Indigenous rates, Students with Disabilities follows a similar pat
 [If you would like to see a more indepth analysis, you can find the full notebook here](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/notebooks/analysis1.ipynb)
 
 ## Question 2:
-
 #### Does your school district's population affect your likelihood to graduate from high school?
+[You can find the full analysis notebook here, including the code and the data here](notebooks/analysis2.ipynb) 
 
 My research question is whether the population size of the district in which a school is located has a relationship with the proportion of students receiving their high school diploma. My secondary research question is if there is consistency in population size among those school districts that have lower than 70% average estimated completion rates. In order to conduct my analysis, I merged a second dataset comprising of population data for each of the school districts in BC. 
 
@@ -32,29 +32,29 @@ I categorized the school districts into four groups based on population size to 
 #### Average Estimated Completion Rate = 85.5%
 ![Figure 1_1](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig1_1.png)
 
-Figure 1 plots school districts with population above 100,000 and their respective average estimated completion rates. The average estimated completion rate for population group 1 is 85.5%, the highest of all four population groups. 
+Figure 1 plots school districts with population above 100,000 and their respective average estimated completion rates. The average estimated completion rate for population group 1 is 85.5%, the highest of all four population groups. Most of the school districts have exceptional completion rates, rangin from 78% to 92%. It is interesting to note that only one of the school districts in this group has a completion rate lower than 80% (Nanaimo-Ladysmith).
 
 ### Figure 1.2 - Population Group 2: 50,000 - 99,999
 #### Average Estimated Completion Rate = 80.18%
 ![Figure 1_2](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig1_2.png)
 
-Figure 2 plots school districts with population between 50,000 and 99,999 and their respective average estimated completion rates. The average estimated completion rate for population group 2 is 80.18%. 
+Figure 2 plots school districts with population between 50,000 and 99,999 and their respective average estimated completion rates. The average estimated completion rate for population group 2 is 80.18%. Most of the school districts in this population group have completion rates around the high 70s. At the bottom of this group, with a population size of 51,268, West Vancouver has the highest completion rate of all of the school districts in BC, 98%. Although my analysis does not dive into the reason for this outlier, I hypothesize that it could be related to the higher income/wealth in that school district. 
 
 ### Figure 1.3 - Population Group 3: 25,000 - 49,999
 #### Average Estimated Completion Rate = 79.55%
 ![Figure 1_3](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig1_3.png)
 
-Figure 2 plots school districts with population between 50,000 and 99,999 and their respective average estimated completion rates. The average estimated completion rate for population group 2 is 80.18%. 
+Figure 3 plots school districts with population between 50,000 and 99,999 and their respective average estimated completion rates. The average estimated completion rate for population group 3 is 79.55%, slightly lower than that of population group 2.
 
 
 ### Figure 1.4 - Population Group 4: < 25,000
 #### Average Estimated Completion Rate = 72.35%
 ![Figure 1_4](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig1_4.png)
 
-Figure 1 plots school districts with population below 25,000 and their respective average estimated completion rates. The average estimated completion rate for population group 2 is 72.35%, the lowest of all four population groups. 
+Figure 4 plots school districts with population below 25,000 and their respective average estimated completion rates. The average estimated completion rate for population group 4 is 72.35%, the lowest of all four population groups. The completion rates in this population group range from 52%-87%. It is interesting to note that the two lowest completion rates of all school districts, 52% and 58% also have the smallest population sizes, Nisga'a and Stikine, respectively. 
 
 
-By comparing all four of these figures, it is clear that there exists a positive relationship between population size of the school district and its completion rate. The higher the population, the better chance to have higher completion rates and vice versa. 
+By comparing all four of these figures, it is clear that there exists a positive relationship between population size of the school district and its completion rate. On average, the higher the population, the better chance to have higher completion rates and vice versa. 
 
 ![Figure 2](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig2.jpeg)
 
