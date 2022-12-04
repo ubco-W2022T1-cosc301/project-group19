@@ -54,10 +54,15 @@ Figure 3 plots school districts with population between 50,000 and 99,999 and th
 Figure 4 plots school districts with population below 25,000 and their respective average estimated completion rates. The average estimated completion rate for population group 4 is 72.35%, the lowest of all four population groups. The completion rates in this population group range from 52%-87%. It is interesting to note that the two lowest completion rates of all school districts, 52% and 58% also have the smallest population sizes, Nisga'a and Stikine, respectively. 
 
 
-By comparing all four of these figures, it is clear that there exists a positive relationship between population size of the school district and its completion rate. On average, the higher the population, the better chance to have higher completion rates and vice versa. 
+
+To expand on my analysis, I am looking more in depth at the school districts with the lowest completion rates, those under 70%. I would like to see if there is any commonality between them in regards to population size. 
 
 ![Figure 2](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig2.jpeg)
 
+As seen in Figure 2, there are seven school districts with an estimated completion rate below 70%. It is interesting to note that all of these school districts have a population lower than 25,000 and the three lowest completion rates (52%, 58%, and 63%) also have the three lowest population sizes, all under 5,000 people (Nisga'a, Stikine, and Vancouver Island West).
+
+
+By comparing all four of these figures, it is clear that there exists a positive relationship between population size of the school district and its completion rate. On average, the higher the population, the better chance to have higher completion rates and vice versa. 
 
 
 ## Question 3:
