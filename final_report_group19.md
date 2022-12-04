@@ -21,26 +21,43 @@ Just like the Indigenous rates, Students with Disabilities follows a similar pat
 
 ## Question 2:
 
+#### Does your school district's population affect your likelihood to graduate from high school?
+
 My research question is whether the population size of the district in which a school is located has a relationship with the proportion of students receiving their high school diploma. My secondary research question is if there is consistency in population size among those school districts that have lower than 70% average estimated completion rates. In order to conduct my analysis, I merged a second dataset comprising of population data for each of the school districts in BC. 
+
+I categorized the school districts into four groups based on population size to compare their respective completion rates to see if there is a relationship present. 
+
+
 ### Figure 1.1 - Population Group 1: >100,000
 #### Average Estimated Completion Rate = 85.5%
 ![Figure 1_1](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig1_1.png)
 
-Figure 1 plots school districts with population above 100,000 and their respective average estimated completion rates. 
+Figure 1 plots school districts with population above 100,000 and their respective average estimated completion rates. The average estimated completion rate for population group 1 is 85.5%, the highest of all four population groups. 
 
 ### Figure 1.2 - Population Group 2: 50,000 - 99,999
 #### Average Estimated Completion Rate = 80.18%
 ![Figure 1_2](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig1_2.png)
 
+Figure 2 plots school districts with population between 50,000 and 99,999 and their respective average estimated completion rates. The average estimated completion rate for population group 2 is 80.18%. 
+
 ### Figure 1.3 - Population Group 3: 25,000 - 49,999
 #### Average Estimated Completion Rate = 79.55%
 ![Figure 1_3](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig1_3.png)
+
+Figure 2 plots school districts with population between 50,000 and 99,999 and their respective average estimated completion rates. The average estimated completion rate for population group 2 is 80.18%. 
+
 
 ### Figure 1.4 - Population Group 4: < 25,000
 #### Average Estimated Completion Rate = 72.35%
 ![Figure 1_4](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig1_4.png)
 
+Figure 1 plots school districts with population below 25,000 and their respective average estimated completion rates. The average estimated completion rate for population group 2 is 72.35%, the lowest of all four population groups. 
+
+
+By comparing all four of these figures, it is clear that there exists a positive relationship between population size of the school district and its completion rate. The higher the population, the better chance to have higher completion rates and vice versa. 
+
 ![Figure 2](https://github.com/ubco-W2022T1-cosc301/project-group19/blob/main/images/APFig2.jpeg)
+
 
 
 ## Question 3:
