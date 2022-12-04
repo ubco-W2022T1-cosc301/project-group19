@@ -21,7 +21,6 @@ Just like the Indigenous rates, Students with Disabilities follows a similar pat
 
 ## Question 2:
 #### Does your school district's population affect your likelihood to graduate from high school?
-[You can find the full analysis notebook here, including the code and the data here](notebooks/analysis2.ipynb) 
 
 My research question is whether the population size of the district in which a school is located has a relationship with the proportion of students receiving their high school diploma. My secondary research question is if there is consistency in population size among those school districts that have lower than 70% average estimated completion rates. In order to conduct my analysis, I merged a second dataset comprising of population data for each of the school districts in BC. 
 
@@ -64,6 +63,7 @@ As seen in Figure 2, there are seven school districts with an estimated completi
 
 By comparing all four of these figures, it is clear that there exists a positive relationship between population size of the school district and its completion rate. On average, the higher the population, the better chance to have higher completion rates and vice versa. 
 
+[You can find the full analysis notebook here, including the code and the data here](notebooks/analysis2.ipynb) 
 
 ## Question 3:
 [You can find the full analysis notebook here, including the code and the data here](notebooks/analysis3.ipynb) 
